@@ -1,3 +1,3 @@
 # Kattis-Problems
-Kattis Problems in Python <br><br>
+Kattis Soltuions in Python3 <br><br>
 By Thomas Boyd
