@@ -1,3 +1,3 @@
 # Kattis Answers
-Kattis Soltuions in Python3 <br><br>
+Kattis Soltuions in Python 3 <br><br>
 By Thomas Boyd
